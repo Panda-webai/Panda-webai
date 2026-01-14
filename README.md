@@ -1,25 +1,56 @@
 <!-- =========================================================
-⚡ CYBERPUNK GITHUB PROFILE README
+███ CYBERPUNK PROFESSIONAL DEVELOPER PROFILE ███
 ========================================================= -->
 
 <div align="center">
 
-<!-- ================= HERO ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=320&section=header&text=Panda-webai&fontSize=84&fontColor=00E5FF&animation=fadeIn&color=0:0F2027,50:203A43,100:2C5364&desc=CYBERPUNK%20REALTIME%20DEVELOPER&descAlignY=75&descSize=22" width="100%"/>
+<!-- =========================
+HERO / HEADER
+========================= -->
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=340&section=header
+  &text=Panda-webai
+  &fontSize=86
+  &fontColor=00E5FF
+  &animation=fadeIn
+  &color=0:0B0F1A,40:0F2027,70:203A43,100:2C5364
+  &desc=Realtime%20Systems%20Engineer%20%7C%20Cyberpunk%20Web%20Developer
+  &descSize=22
+  &descAlignY=78"
+  width="100%" />
 
-<!-- ================= NAV ================= -->
+<!-- =========================
+NAVIGATION
+========================= -->
 <p>
-  <a href="#-about">🧠 About</a> •
-  <a href="#-stack">⚙ Stack</a> •
-  <a href="#-stats">📊 Stats</a> •
-  <a href="#-projects">🧩 Projects</a> •
-  <a href="#-contact">📡 Contact</a>
+  <a href="#about">🧠 About</a> •
+  <a href="#expertise">🧬 Expertise</a> •
+  <a href="#stack">⚙ Tech Stack</a> •
+  <a href="#architecture">🧩 Architecture</a> •
+  <a href="#stats">📊 Metrics</a> •
+  <a href="#contact">📡 Contact</a>
 </p>
 
-<!-- ================= TYPING ================= -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Realtime+Web+Systems+%7C+Async+Architecture;FastAPI+%2B+WebSocket+%2B+React;Cyberpunk+UI+%7C+Clean+Code+%7C+High+Performance" />
+<!-- =========================
+TYPING / MOTION
+========================= -->
+<img
+  src="https://readme-typing-svg.herokuapp.com
+  ?font=Orbitron
+  &size=22
+  &pause=900
+  &color=00E5FF
+  &center=true
+  &vCenter=true
+  &width=900
+  &lines=Designing+High-Performance+Realtime+Web+Systems;
+          Async+First+%7C+Event+Driven+%7C+Scalable;
+          FastAPI+%2B+WebSocket+%2B+React;
+          Cyberpunk+UI+with+Production-Grade+Architecture" />
 
-<!-- ================= BADGES ================= -->
+<!-- =========================
+BADGES
+========================= -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Panda-webai&style=for-the-badge&color=00E5FF"/>
   <img src="https://img.shields.io/github/followers/Panda-webai?style=for-the-badge&color=FF2CDF"/>
@@ -30,10 +61,12 @@
 
 ---
 
-## 🧠 <a name="-about"></a> ABOUT ME
+<a name="about"></a>
+## 🧠 ABOUT ME
 
 ```txt
-NAME        : Panda-webai
-ROLE        : Realtime Web Developer
-STYLE       : Cyberpunk • Clean • Performant
-FOCUS       : Async / Event-driven Systems
+HANDLE      : Panda-webai
+ROLE        : Realtime Web / System Engineer
+SPECIALTY   : Async Architecture • Event-driven Systems
+STYLE       : Cyberpunk • Clean • Scalable • Performant
+LOCATION    : Remote / Global

@@ -1,16 +1,19 @@
-## Hi there 👋
+# สวัสดีครับ! ผม Panda-webai 👋
+### 👨‍💻 Developer
 
-<!--
-**Panda-webai/Panda-webai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ยินดีต้อนรับสู่ GitHub ของผมครับ ผมชอบเขียนโค้ดและเรียนรู้เทคโนโลยีใหม่ๆ
 
-Here are some ideas to get you started:
+- 🔭 โปรเจกต์ที่กำลังทำ: **[ใส่ชื่อโปรเจกต์ของคุณ]**
+- 🌱 กำลังเรียนรู้เกี่ยวกับ: **[Python, React]**
+- 📫 ช่องทางติดต่อ: **[อีเมลของคุณ]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Panda-webai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panda-webai&show_icons=true&theme=radical)

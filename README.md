@@ -1,72 +1,82 @@
-<!-- =========================================================
-███ CYBERPUNK PROFESSIONAL DEVELOPER PROFILE ███
-========================================================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,15&height=280&section=header&text=PANDA-WEBAI&fontSize=70&fontColor=00ffff&animation=fadeIn&fontAlignY=40&desc=SYSTEM.ONLINE%20//%20WELCOME%20NETRUNNER&descSize=18&descAlignY=65&descColor=ff00ff" width="100%" />
+</div>
 
+<br/>
 <div align="center">
 
-<!-- =========================
-HERO / HEADER
-========================= -->
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=340&section=header
-  &text=Panda-webai
-  &fontSize=86
-  &fontColor=00E5FF
-  &animation=fadeIn
-  &color=0:0B0F1A,40:0F2027,70:203A43,100:2C5364
-  &desc=Realtime%20Systems%20Engineer%20%7C%20Cyberpunk%20Web%20Developer
-  &descSize=22
-  &descAlignY=78"
-  width="100%" />
+### `> "The future is already here — it's just not evenly distributed."`
 
-<!-- =========================
-NAVIGATION
-========================= -->
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      
+### 🦾 `> WhoAmI.exe`
+<br/>
+สวัสดียุคใหม่! ผมเป็น Developer ที่ชอบสร้างระบบที่ซับซ้อนให้ทำงานได้ลื่นไหลภายใต้แรงกดดัน
+
+- ⚡ **Current Quest:** พัฒนาระบบ Real-time AsyncIO ความเร็วสูง
+- 🧠 **Uploading Data:** กำลังศึกษา Advanced React Patterns & Cyber Security
+- 🤖 **System Status:** พร้อมทำงาน 100% แก้บั๊กไวกว่าแสง
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=39ff14&background=00000000&center=false&vCenter=true&width=435&lines=Initializing+Neural+Link...;Executing+Python+Script...;Hacking+the+Mainframe...;System+Ready." alt="Typing SVG" />
+</a>
+
+<br/>
+
+### 📡 `> Establish Connection`
 <p>
-  <a href="#about">🧠 About</a> •
-  <a href="#expertise">🧬 Expertise</a> •
-  <a href="#stack">⚙ Tech Stack</a> •
-  <a href="#architecture">🧩 Architecture</a> •
-  <a href="#stats">📊 Metrics</a> •
-  <a href="#contact">📡 Contact</a>
+  <a href="mailto:อีเมลของคุณ@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-ff0055?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Panda-webai">
+    <img src="https://img.shields.io/badge/GITHUB-121212?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LINKEDIN-00aaff?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<!-- =========================
-TYPING / MOTION
-========================= -->
-<img
-  src="https://readme-typing-svg.herokuapp.com
-  ?font=Orbitron
-  &size=22
-  &pause=900
-  &color=00E5FF
-  &center=true
-  &vCenter=true
-  &width=900
-  &lines=Designing+High-Performance+Realtime+Web+Systems;
-          Async+First+%7C+Event+Driven+%7C+Scalable;
-          FastAPI+%2B+WebSocket+%2B+React;
-          Cyberpunk+UI+with+Production-Grade+Architecture" />
+   </td>
+    <td width="45%" valign="top">
 
-<!-- =========================
-BADGES
-========================= -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Panda-webai&style=for-the-badge&color=00E5FF"/>
-  <img src="https://img.shields.io/github/followers/Panda-webai?style=for-the-badge&color=FF2CDF"/>
-  <img src="https://img.shields.io/github/stars/Panda-webai?style=for-the-badge&color=FFD700"/>
-</p>
+### 🛠 `> Equipped_Gear`
+
+<div align="left">
+  <code>[LANGUAGES]</code><br/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</div>
+<br/>
+
+<div align="left">
+  <code>[FRAMEWORKS]</code><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-0f2f38?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+</div>
+<br/>
+
+<div align="left">
+  <code>[TOOLS]</code><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-2c004d?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" />
+</div>
+
+   </td>
+  </tr>
+</table>
 
 </div>
 
----
-
-<a name="about"></a>
-## 🧠 ABOUT ME
-
-```txt
-HANDLE      : Panda-webai
-ROLE        : Realtime Web / System Engineer
-SPECIALTY   : Async Architecture • Event-driven Systems
-STYLE       : Cyberpunk • Clean • Scalable • Performant
-LOCATION    : Remote / Global
+<div align="center">
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,5,0&height=100&section=footer" width="100%" />
+  <p><code>> © 2024 Panda-webai || SYSTEM OFF.</code></p>
+</div>

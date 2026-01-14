@@ -1,11 +1,12 @@
 <!-- =========================
-🐼 Panda Theme | GitHub Profile README (Copy-Paste Ready)
-✅ Replace: Panda-webai / yourmail@gmail.com / LinkedIn link / Project links
+🐼 Panda Theme | GitHub Profile README (Stable Edition)
+✅ Activity Graph removed (no broken images)
+✅ Copy-Paste Ready
 ========================= -->
 
 <div align="center">
 
-  <!-- TOP HERO (PANDA THEME) -->
+  <!-- TOP HERO -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,24,2&height=310&section=header&text=Panda-webai&fontSize=78&animation=fadeIn&fontAlignY=40&desc=Eat%20Bamboo%20%E2%86%92%20Write%20Code%20%F0%9F%8C%BF%F0%9F%90%BC&descSize=22&descAlignY=65" width="100%" />
 
   <!-- NAV -->
@@ -17,7 +18,7 @@
     <a href="#-contact">📫 Contact</a>
   </p>
 
-  <!-- CTA BUTTONS -->
+  <!-- CTA -->
   <p>
     <a href="https://github.com/Panda-webai?tab=repositories">
       <img src="https://img.shields.io/badge/%F0%9F%90%BC%20Explore%20Repos-111?style=for-the-badge&logo=github&logoColor=white" />
@@ -27,7 +28,7 @@
     </a>
   </p>
 
-  <!-- VIEW / FOLLOW / STARS -->
+  <!-- COUNTERS -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=Panda-webai&style=for-the-badge&label=Visitors&color=2ECC71" />
     <img src="https://img.shields.io/github/followers/Panda-webai?style=for-the-badge&label=Followers&color=0B0F0E" />
@@ -75,18 +76,21 @@ ABOUT + SIDE PANEL
 
     <td width="42%" valign="top">
 
-<!-- PANDA CARD -->
 <div align="center">
   <img src="https://img.shields.io/badge/PANDA-DEV-0B0F0E?style=for-the-badge&labelColor=2ECC71" />
   <br/><br/>
+
+  <!-- STREAK -->
   <img src="https://streak-stats.demolab.com?user=Panda-webai&theme=tokyonight&hide_border=true" width="100%" />
+
   <br/><br/>
+
+  <!-- TROPHY -->
   <img src="https://github-profile-trophy.vercel.app/?username=Panda-webai&theme=onedark&no-frame=true&no-bg=true&row=2&column=3" />
 </div>
 
 <br/>
 
-<!-- LITTLE PANDA DECOR -->
 <div align="center">
   <img src="https://img.shields.io/badge/%F0%9F%8C%BF%20Bamboo%20Powered-2ECC71?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%F0%9F%90%BC%20Cute%20but%20Deadly-111111?style=for-the-badge" />
@@ -105,12 +109,10 @@ TECH STACK
 
 <div align="center">
 
-<!-- ICONS -->
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,tailwind,fastapi,nodejs,docker,git,github,vscode,linux&perline=7" />
 
 <br/><br/>
 
-<!-- BADGES -->
 <p>
   <img src="https://img.shields.io/badge/Backend-Python%20%7C%20FastAPI%20%7C%20AsyncIO-0B0F0E?style=for-the-badge&labelColor=2ECC71" />
   <img src="https://img.shields.io/badge/Realtime-WebSocket%20%7C%20Socket.IO-111111?style=for-the-badge&labelColor=2ECC71" />
@@ -122,7 +124,7 @@ TECH STACK
 <br/>
 
 <!-- =========================
-GITHUB STATS
+GITHUB STATS (NO ACTIVITY GRAPH)
 ========================= -->
 ### <a name="-github-stats"></a>📈 GitHub Stats
 
@@ -133,8 +135,9 @@ GITHUB STATS
 
 <br/><br/>
 
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Panda-webai&theme=tokyo-night&hide_border=true" width="100%"/>
+<!-- OPTIONAL: If you want a safe extra card (rarely breaks), keep it.
+     If you want ultra-minimal, you can delete this whole Wakatime line. -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME&hide_border=true&theme=tokyonight" /> -->
 
 </div>
 
@@ -189,7 +192,6 @@ CONTACT
 
 <br/><br/>
 
-<!-- FUN FOOTER LINE -->
 <img src="https://img.shields.io/badge/%F0%9F%90%BC%20If%20you%20like%20this%20README%2C%20star%20a%20repo!-0B0F0E?style=for-the-badge&labelColor=2ECC71" />
 
 </div>

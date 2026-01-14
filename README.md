@@ -1,82 +1,188 @@
+<!-- =========================
+🔥 Panda-webai | GitHub Profile README (Epic Edition)
+========================= -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,15&height=280&section=header&text=PANDA-WEBAI&fontSize=70&fontColor=00ffff&animation=fadeIn&fontAlignY=40&desc=SYSTEM.ONLINE%20//%20WELCOME%20NETRUNNER&descSize=18&descAlignY=65&descColor=ff00ff" width="100%" />
+
+  <!-- HERO -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,2,0&height=290&section=header&text=Panda-webai&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Turning%20Coffee%20Into%20Code%20%E2%98%95%F0%9F%90%BC&descSize=20&descAlignY=65" width="100%" />
+
+  <!-- QUICK NAV -->
+  <p>
+    <a href="#-about-me">🐼 About Me</a> &nbsp;&bull;&nbsp;
+    <a href="#-highlights">🚀 Highlights</a> &nbsp;&bull;&nbsp;
+    <a href="#-tech-stack">🛠 Tech Stack</a> &nbsp;&bull;&nbsp;
+    <a href="#-github-stats">📈 Stats</a> &nbsp;&bull;&nbsp;
+    <a href="#-contact">📫 Contact</a>
+  </p>
+
+  <!-- TYPING -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=00C2FF&center=true&vCenter=true&width=720&lines=Building+Realtime+Web+Systems+%F0%9F%94%A5;AsyncIO+%2B+FastAPI+%2B+WebSockets;Advanced+React+Patterns+%7C+Clean+UI+%7C+Great+DX;One+line+of+code+at+a+time..." alt="Typing SVG" />
+  </a>
+
+  <!-- BADGES / CTA -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Panda-webai&style=for-the-badge&label=Profile+Views&color=0e75b6" />
+    <img src="https://img.shields.io/github/followers/Panda-webai?style=for-the-badge&label=Followers&color=222222" />
+    <img src="https://img.shields.io/github/stars/Panda-webai?style=for-the-badge&label=Stars&color=FFD700" />
+  </p>
+
+  <p>
+    <a href="https://github.com/Panda-webai?tab=repositories">
+      <img src="https://img.shields.io/badge/Explore%20Repos-111?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="#-contact">
+      <img src="https://img.shields.io/badge/Hire%20Me-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+  </p>
+
 </div>
 
 <br/>
-<div align="center">
 
-### `> "The future is already here — it's just not evenly distributed."`
-
-<br/>
-
+<!-- =========================
+ABOUT + HIGHLIGHTS
+========================= -->
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      
-### 🦾 `> WhoAmI.exe`
-<br/>
-สวัสดียุคใหม่! ผมเป็น Developer ที่ชอบสร้างระบบที่ซับซ้อนให้ทำงานได้ลื่นไหลภายใต้แรงกดดัน
 
-- ⚡ **Current Quest:** พัฒนาระบบ Real-time AsyncIO ความเร็วสูง
-- 🧠 **Uploading Data:** กำลังศึกษา Advanced React Patterns & Cyber Security
-- 🤖 **System Status:** พร้อมทำงาน 100% แก้บั๊กไวกว่าแสง
+### <a name="-about-me"></a>🐼 About Me
+สวัสดีครับ ผมเป็น Developer ที่หลงใหลในการสร้าง **Web Application ที่ลื่นไหล สวยงาม และ Real-time**
 
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=39ff14&background=00000000&center=false&vCenter=true&width=435&lines=Initializing+Neural+Link...;Executing+Python+Script...;Hacking+the+Mainframe...;System+Ready." alt="Typing SVG" />
-</a>
+- 🔭 **Current Focus:** ระบบ Real-time (Python AsyncIO / WebSocket / Socket.IO)
+- 🌱 **Learning:** Advanced React Patterns + State Architecture
+- 🧠 **Mindset:** Clean Code, Maintainable, UX-first
+- ⚡ **Fun Fact:** ผมแก้บั๊กได้เร็วที่สุดตอนใกล้ Deadline 😄
 
 <br/>
 
-### 📡 `> Establish Connection`
-<p>
-  <a href="mailto:อีเมลของคุณ@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-ff0055?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Panda-webai">
-    <img src="https://img.shields.io/badge/GITHUB-121212?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LINKEDIN-00aaff?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+### <a name="-highlights"></a>🚀 Highlights
+- ✅ ออกแบบระบบ **Real-time** ที่รองรับหลายห้อง (Rooms) + Broadcast Events
+- ✅ สร้าง UI ที่ **Smooth & Responsive** ด้วย React + Tailwind
+- ✅ เน้น DX: โค้ดอ่านง่าย แยกชั้นชัดเจน พร้อมต่อยอด Production
+
+<br/>
+
+> ❝ Code is like humor. When you have to explain it, it’s bad. ❞
 
    </td>
+
     <td width="45%" valign="top">
 
-### 🛠 `> Equipped_Gear`
-
-<div align="left">
-  <code>[LANGUAGES]</code><br/>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<!-- TROPHY -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Panda-webai&theme=onedark&no-frame=true&no-bg=true&row=2&column=3" />
 </div>
+
 <br/>
 
-<div align="left">
-  <code>[FRAMEWORKS]</code><br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-0f2f38?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
-</div>
-<br/>
-
-<div align="left">
-  <code>[TOOLS]</code><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-2c004d?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" />
+<!-- STREAK -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Panda-webai&theme=tokyonight&hide_border=true" width="100%"/>
 </div>
 
    </td>
   </tr>
 </table>
 
-</div>
+<br/>
+
+<!-- =========================
+TECH STACK
+========================= -->
+### <a name="-tech-stack"></a>🛠 My Tech Stack
 
 <div align="center">
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,5,0&height=100&section=footer" width="100%" />
-  <p><code>> © 2024 Panda-webai || SYSTEM OFF.</code></p>
+
+<!-- SKILL ICONS -->
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,tailwind,fastapi,nodejs,docker,git,github,vscode,linux&perline=7" />
+
+<br/><br/>
+
+<!-- EXTRA BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/Realtime-AsyncIO%20%7C%20WebSocket%20%7C%20Socket.IO-00C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX-React%20%2B%20Tailwind-111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD-222?style=for-the-badge" />
+</p>
+
+</div>
+
+<br/>
+
+<!-- =========================
+GITHUB STATS
+========================= -->
+### <a name="-github-stats"></a>📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Panda-webai&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda-webai&layout=compact&hide_border=true&theme=tokyonight" />
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Panda-webai&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- =========================
+PINNED PROJECTS (Manual Section)
+========================= -->
+### 🧩 Featured Projects
+<div align="center">
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Realtime System Template</h4>
+      <p>FastAPI + Socket.IO + AsyncIO (พร้อม Rooms / Events / Logging)</p>
+      <a href="https://github.com/Panda-webai">
+        <img src="https://img.shields.io/badge/View%20Repo-111?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎨 UI Kit Playground</h4>
+      <p>React + Tailwind components ที่ออกแบบให้ใช้งานจริงได้ไว</p>
+      <a href="https://github.com/Panda-webai">
+        <img src="https://img.shields.io/badge/View%20Repo-00C2FF?style=for-the-badge&logo=react&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- =========================
+CONTACT
+========================= -->
+### <a name="-contact"></a>📫 Connect with Me
+
+<div align="center">
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Panda-webai">
+  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25&height=120&section=footer" width="100%" />
+  <p>© 2026 Panda-webai | Made with ❤️ and Python</p>
 </div>

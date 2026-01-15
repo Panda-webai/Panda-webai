@@ -1,6 +1,6 @@
 <!-- =========================
 🐼 Panda Theme | GitHub Profile README
-FULL CLEAN + SNAPSHOT VERSION (UPDATED TECH STACK)
+FULL CLEAN • DENSE TECH STACK • SNAPSHOT VERSION
 ========================= -->
 
 <div align="center">
@@ -33,9 +33,10 @@ ABOUT + SNAPSHOT
 ### <a name="-about-me"></a>🐼 About Me
 
 สวัสดีครับ ผมเป็น Developer ที่หลงใหลในการสร้าง  
-**Web Application ที่ลื่นไหล สวยงาม และ Real-time** (รวมถึงงานด้าน AI/ML)
+**Web Application ที่ลื่นไหล สวยงาม และ Real-time**  
+รวมถึงงานด้าน **AI / Machine Learning**
 
-- 🧑‍💻 **Focus:** AI/ML + Real-time System (Python AsyncIO / WebSocket / Socket.IO)
+- 🧑‍💻 **Focus:** AI/ML + Real-time Systems (Python AsyncIO / WebSocket / Socket.IO)
 - 🌱 **Learning:** Advanced React Patterns + State Architecture
 - 🎨 **Style:** Clean Code • Maintainable • UX-first
 - ⚡ **Fun Fact:** แก้บั๊กไวขึ้นเสมอเมื่อใกล้ Deadline 😄
@@ -55,7 +56,7 @@ ABOUT + SNAPSHOT
 <tr>
 <td>
 
-- 🧑‍💻 **Role:** Full-Stack Developer  
+- 🧑‍💻 **Role:** Full-Stack / AI Engineer  
 - ⚡ **Specialty:** AI/ML + Real-time & Event-driven Systems  
 - 🧠 **Strength:** System Design, Clean Architecture  
 - 🎨 **UI Mindset:** Simple, Predictable, UX-first  
@@ -79,28 +80,50 @@ ABOUT + SNAPSHOT
 <br/>
 
 <!-- =========================
-TECH STACK
+TECH STACK (DENSE & BALANCED)
 ========================= -->
 ### <a name="-tech-stack"></a>🛠 Tech Stack (Panda Approved)
 
-<div align="center">
+<table border="0" width="100%">
+<tr>
 
-<!-- Languages + AI/ML -->
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,pytorch,numpy,sklearn,tensorflow,pandas&perline=8" />
+<!-- LANGUAGES & AI -->
+<td width="33%" valign="top" align="center">
 
-<br/><br/>
+<b>🧠 Languages & AI / ML</b><br/><br/>
 
-<!-- Backend + Platform -->
-<img src="https://skillicons.dev/icons?i=fastapi,linux&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,pytorch,tensorflow&perline=3" /><br/>
+<img src="https://skillicons.dev/icons?i=numpy,sklearn,pandas&perline=3" />
 
-<br/><br/>
+</td>
 
-<!-- Runtime / Realtime (concept badges) -->
+<!-- BACKEND & PLATFORM -->
+<td width="33%" valign="top" align="center">
+
+<b>⚙️ Backend & Platform</b><br/><br/>
+
+<img src="https://skillicons.dev/icons?i=fastapi,linux&perline=2" /><br/><br/>
+
 <img src="https://img.shields.io/badge/AsyncIO-111111?style=for-the-badge&labelColor=2ECC71" />
-<img src="https://img.shields.io/badge/WebSocket-111111?style=for-the-badge&labelColor=2ECC71" />
+
+</td>
+
+<!-- REALTIME -->
+<td width="33%" valign="top" align="center">
+
+<b>⚡ Realtime</b><br/><br/>
+
+<img src="https://img.shields.io/badge/WebSocket-111111?style=for-the-badge&labelColor=2ECC71" /><br/>
 <img src="https://img.shields.io/badge/Socket.IO-111111?style=for-the-badge&labelColor=2ECC71" />
 
-</div>
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <i>AI/ML • Real-time Systems • Linux-based Production</i>
+</p>
 
 <br/>
 
@@ -115,8 +138,8 @@ WHAT I BUILD
 - ⚡ **Real-time Systems**  
   Rooms, Events, Broadcast, Reconnect, Latency handling
 
-- 🤖 **AI/ML Pipeline & Experiments**  
-  Data processing, training/inference workflow, reproducibility
+- 🤖 **AI / ML Pipelines**  
+  Data processing, model training, inference & experimentation
 
 - 🧩 **Frontend UI สำหรับ Production**  
   React + Tailwind, reusable components, predictable UX

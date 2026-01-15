@@ -1,6 +1,6 @@
 <!-- =========================
 🐼 Panda Theme | GitHub Profile README
-FULL CLEAN • CENTERED TECH STACK
+FULL CLEAN • CENTERED TECH STACK • BALANCED COLUMNS
 ========================= -->
 
 <div align="center">
@@ -22,21 +22,53 @@ FULL CLEAN • CENTERED TECH STACK
 <br/>
 
 <!-- =========================
-ABOUT
+ABOUT + SNAPSHOT
 ========================= -->
+<table border="0" width="100%">
+<tr>
+
+<td width="58%" valign="top">
+
 ### <a name="-about-me"></a>🐼 About Me
 
 สวัสดีครับ ผมเป็น Developer ที่หลงใหลในการสร้าง  
 **Web Application, AI/ML และ Real-time Systems** บน Linux
 
-- 🧑‍💻 Focus: AI/ML + Real-time Backend  
-- 🎨 Style: Clean • Maintainable • UX-first  
-- ⚡ Fun Fact: แก้บั๊กไวขึ้นเสมอเมื่อใกล้ Deadline 😄  
+- 🧑‍💻 **Focus:** AI/ML + Real-time Backend (Python AsyncIO / WebSocket / Socket.IO)
+- 🎨 **Style:** Clean • Maintainable • UX-first
+- 🌱 **Learning:** Advanced React Patterns + State Architecture
+- ⚡ **Fun Fact:** แก้บั๊กไวขึ้นเสมอเมื่อใกล้ Deadline 😄
 
----
+> ❝ Keep it clean. Keep it cute. Keep it shipping. ❞
+
+</td>
+
+<td width="42%" valign="top">
+
+<div align="center">
+
+### 🐼 Panda Dev Snapshot
+
+- 🧑‍💻 Full-Stack / AI Engineer  
+- ⚡ Real-time & Event-driven Systems  
+- 🧠 Clean Architecture & System Design  
+- 🌿 Linux-based Production Mindset  
+
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%8C%BF%20Bamboo%20Powered-2ECC71?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%90%BC%20Cute%20but%20Deadly-111111?style=for-the-badge" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <!-- =========================
-TECH STACK (CENTERED)
+TECH STACK (CENTERED + BALANCED)
 ========================= -->
 ### <a name="-tech-stack"></a>🛠 Tech Stack (Panda Approved)
 
@@ -45,24 +77,41 @@ TECH STACK (CENTERED)
 <table width="90%" style="margin: 0 auto;">
 <tr>
 
-<!-- Languages -->
+<!-- =========================
+LANGUAGES (BALANCED HEIGHT)
+========================= -->
 <td align="center" width="33%">
 <b>🧠 Languages</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,ts&perline=3" />
+
+<!-- Row 1 -->
+<img src="https://skillicons.dev/icons?i=python,cpp&perline=2" /><br/>
+<!-- Row 2 -->
+<img src="https://skillicons.dev/icons?i=ts&perline=1" />
+
 </td>
 
-<!-- AI / ML -->
+<!-- =========================
+AI / ML (BALANCED HEIGHT)
+========================= -->
 <td align="center" width="34%">
 <b>🤖 AI / ML</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=3" /><br/>
-<img src="https://skillicons.dev/icons?i=numpy,pandas&perline=2" />
+
+<!-- Row 1 -->
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2" /><br/>
+<!-- Row 2 -->
+<img src="https://skillicons.dev/icons?i=sklearn&perline=1" />
+
 </td>
 
-<!-- Backend & Platform -->
+<!-- =========================
+BACKEND & PLATFORM
+========================= -->
 <td align="center" width="33%">
 <b>⚙️ Backend & Platform</b><br/><br/>
+
 <img src="https://skillicons.dev/icons?i=fastapi,linux&perline=2" /><br/><br/>
 <img src="https://img.shields.io/badge/AsyncIO-111111?style=for-the-badge&labelColor=2ECC71" />
+
 </td>
 
 </tr>
@@ -80,31 +129,53 @@ TECH STACK (CENTERED)
   <i>AI/ML • Real-time Systems • Linux-based Production</i>
 </p>
 
----
+<br/>
 
 <!-- =========================
 WHAT I BUILD
 ========================= -->
 ### <a name="-what-i-build"></a>🧠 What I Build
 
-- ⚡ Real-time Systems (Rooms, Events, Reconnect)  
-- 🤖 AI / ML Pipelines (Training, Inference)  
-- 🛡️ Production-ready Backend (AsyncIO, Linux)  
+- ⚡ **Real-time Systems** — Rooms, Events, Reconnect, Latency handling  
+- 🤖 **AI / ML Pipelines** — Training, inference, experiments  
+- 🛡️ **Production Backend** — AsyncIO, Linux, stability-first  
 
----
+<br/>
 
 <!-- =========================
 PROJECTS
 ========================= -->
 ### <a name="-projects"></a>🧩 Featured Projects
 
-- 🎋 **Realtime System Template**  
-  FastAPI + Socket.IO + AsyncIO
+<table border="0" width="100%">
+<tr>
 
-- 🐼 **UI Kit Playground**  
-  React + Tailwind Components
+<td width="50%" valign="top">
 
----
+#### 🎋 Realtime System Template
+FastAPI + Socket.IO + AsyncIO
+
+<a href="https://github.com/Panda-webai">
+  <img src="https://img.shields.io/badge/View%20Repo-0B0F0E?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+#### 🐼 UI Kit Playground
+React + Tailwind components
+
+<a href="https://github.com/Panda-webai">
+  <img src="https://img.shields.io/badge/View%20Repo-2ECC71?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 <!-- =========================
 CONTACT
@@ -112,9 +183,17 @@ CONTACT
 ### <a name="-contact"></a>📫 Contact
 
 <div align="center">
-<a href="mailto:yourmail@gmail.com">📧 Email</a> •
-<a href="https://github.com/Panda-webai">GitHub</a> •
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Panda-webai">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
 
 <br/>

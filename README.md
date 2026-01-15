@@ -1,6 +1,6 @@
 <!-- =========================
 🐼 Panda Theme | GitHub Profile README
-FULL CLEAN • DENSE TECH STACK • SNAPSHOT VERSION
+FULL CLEAN • DENSE (NO EMPTY SPACE)
 ========================= -->
 
 <div align="center">
@@ -27,7 +27,6 @@ ABOUT + SNAPSHOT
 <table border="0" width="100%">
 <tr>
 
-<!-- LEFT -->
 <td width="58%" valign="top">
 
 ### <a name="-about-me"></a>🐼 About Me
@@ -36,35 +35,25 @@ ABOUT + SNAPSHOT
 **Web Application ที่ลื่นไหล สวยงาม และ Real-time**  
 รวมถึงงานด้าน **AI / Machine Learning**
 
-- 🧑‍💻 **Focus:** AI/ML + Real-time Systems (Python AsyncIO / WebSocket / Socket.IO)
-- 🌱 **Learning:** Advanced React Patterns + State Architecture
-- 🎨 **Style:** Clean Code • Maintainable • UX-first
+- 🧑‍💻 **Focus:** AI/ML + Real-time Systems  
+- 🎨 **Style:** Clean Code • Maintainable • UX-first  
+- 🌱 **Learning:** Advanced React Patterns + State Architecture  
 - ⚡ **Fun Fact:** แก้บั๊กไวขึ้นเสมอเมื่อใกล้ Deadline 😄
 
 > ❝ Keep it clean. Keep it cute. Keep it shipping. ❞
 
 </td>
 
-<!-- RIGHT -->
 <td width="42%" valign="top">
 
 <div align="center">
 
 ### 🐼 Panda Dev Snapshot
 
-<table border="0" width="100%">
-<tr>
-<td>
-
-- 🧑‍💻 **Role:** Full-Stack / AI Engineer  
-- ⚡ **Specialty:** AI/ML + Real-time & Event-driven Systems  
-- 🧠 **Strength:** System Design, Clean Architecture  
-- 🎨 **UI Mindset:** Simple, Predictable, UX-first  
-- 🌿 **Philosophy:** Build for today, scale for tomorrow  
-
-</td>
-</tr>
-</table>
+- 🧑‍💻 Full-Stack / AI Engineer  
+- ⚡ Real-time & Event-driven Systems  
+- 🧠 Clean Architecture & System Design  
+- 🌿 Linux-based Production Mindset  
 
 <br/>
 
@@ -80,46 +69,32 @@ ABOUT + SNAPSHOT
 <br/>
 
 <!-- =========================
-TECH STACK (DENSE & BALANCED)
+TECH STACK (COMPACT • NO BOX)
 ========================= -->
 ### <a name="-tech-stack"></a>🛠 Tech Stack (Panda Approved)
 
-<table border="0" width="100%">
-<tr>
+<div align="center">
 
 <!-- LANGUAGES & AI -->
-<td width="33%" valign="top" align="center">
-
 <b>🧠 Languages & AI / ML</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,pytorch,tensorflow,numpy,sklearn,pandas&perline=8" />
 
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,pytorch,tensorflow&perline=3" /><br/>
-<img src="https://skillicons.dev/icons?i=numpy,sklearn,pandas&perline=3" />
-
-</td>
+<br/><br/>
 
 <!-- BACKEND & PLATFORM -->
-<td width="33%" valign="top" align="center">
-
 <b>⚙️ Backend & Platform</b><br/><br/>
-
-<img src="https://skillicons.dev/icons?i=fastapi,linux&perline=2" /><br/><br/>
-
+<img src="https://skillicons.dev/icons?i=fastapi,linux&perline=4" />
+<br/><br/>
 <img src="https://img.shields.io/badge/AsyncIO-111111?style=for-the-badge&labelColor=2ECC71" />
 
-</td>
+<br/><br/>
 
 <!-- REALTIME -->
-<td width="33%" valign="top" align="center">
-
 <b>⚡ Realtime</b><br/><br/>
-
-<img src="https://img.shields.io/badge/WebSocket-111111?style=for-the-badge&labelColor=2ECC71" /><br/>
+<img src="https://img.shields.io/badge/WebSocket-111111?style=for-the-badge&labelColor=2ECC71" />
 <img src="https://img.shields.io/badge/Socket.IO-111111?style=for-the-badge&labelColor=2ECC71" />
 
-</td>
-
-</tr>
-</table>
+</div>
 
 <p align="center">
   <i>AI/ML • Real-time Systems • Linux-based Production</i>
@@ -132,27 +107,17 @@ WHAT I BUILD
 ========================= -->
 ### <a name="-what-i-build"></a>🧠 What I Build
 
-ผมโฟกัสการสร้างระบบที่ **ใช้งานจริงได้ดีในระยะยาว**  
-ไม่ใช่แค่ “รันได้” แต่ต้อง **ดูแลง่าย + ขยายได้ + ผู้ใช้รู้สึกลื่น**
-
-- ⚡ **Real-time Systems**  
-  Rooms, Events, Broadcast, Reconnect, Latency handling
-
-- 🤖 **AI / ML Pipelines**  
-  Data processing, model training, inference & experimentation
-
-- 🧩 **Frontend UI สำหรับ Production**  
-  React + Tailwind, reusable components, predictable UX
-
-- 🛡️ **Production Mindset**  
-  Logging, error handling, edge cases, scalability
+- ⚡ **Real-time Systems** — Rooms, Events, Reconnect, Latency handling  
+- 🤖 **AI / ML Pipelines** — Data processing, training, inference  
+- 🧩 **Production UI** — React + Tailwind, predictable UX  
+- 🛡️ **Stability First** — Logging, edge cases, scalability  
 
 <br/>
 
 <!-- =========================
 PROJECTS
 ========================= -->
-### <a name="-projects"></a>🧩 Featured Projects (Bamboo Picks)
+### <a name="-projects"></a>🧩 Featured Projects
 
 <table border="0" width="100%">
 <tr>
@@ -160,8 +125,7 @@ PROJECTS
 <td width="50%" valign="top">
 
 #### 🎋 Realtime System Template
-FastAPI + Socket.IO + AsyncIO  
-Rooms / Events / Logging / Reconnect
+FastAPI + Socket.IO + AsyncIO
 
 <a href="https://github.com/Panda-webai">
   <img src="https://img.shields.io/badge/View%20Repo-0B0F0E?style=for-the-badge&logo=github&logoColor=white" />
@@ -172,8 +136,7 @@ Rooms / Events / Logging / Reconnect
 <td width="50%" valign="top">
 
 #### 🐼 UI Kit Playground
-React + Tailwind components  
-Clean • Reusable • Fast
+React + Tailwind components
 
 <a href="https://github.com/Panda-webai">
   <img src="https://img.shields.io/badge/View%20Repo-2ECC71?style=for-the-badge&logo=react&logoColor=white" />
@@ -202,10 +165,6 @@ CONTACT
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/%F0%9F%90%BC%20Bamboo%20Powered%20Developer-0B0F0E?style=for-the-badge&labelColor=2ECC71" />
 
 </div>
 

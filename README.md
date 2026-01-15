@@ -1,6 +1,6 @@
 <!-- =========================
 🐼 Panda Theme | GitHub Profile README
-FINAL VERSION • AI-FOCUSED • JOB APPLICATION
+FINAL VERSION • AI ENGINEERING • JOB APPLICATION
 ========================= -->
 
 <div align="center">
@@ -22,12 +22,11 @@ FINAL VERSION • AI-FOCUSED • JOB APPLICATION
 <br/>
 
 <!-- =========================
-ABOUT + SNAPSHOT (LEFT / RIGHT)
+ABOUT + SNAPSHOT
 ========================= -->
 <table width="100%" border="0">
 <tr>
 
-<!-- LEFT : ABOUT ME -->
 <td width="60%" valign="top">
 
 ### <a name="-about-me"></a>🐼 About Me
@@ -41,7 +40,6 @@ I have hands-on experience integrating **AI workflows with real-time backend arc
 
 </td>
 
-<!-- RIGHT : SNAPSHOT -->
 <td width="40%" valign="top">
 
 ### 🐼 Dev Snapshot
@@ -107,35 +105,36 @@ WHAT I BUILD
 ========================= -->
 ### <a name="-what-i-build"></a>🧠 What I Build
 
-- 🤖 Machine Learning–driven systems with a focus on reliability, performance, and reproducibility
-- ⚙️ End-to-end AI pipelines from data collection and training to deployment and real-time inference
-- ⚡ Low-latency AI services integrated with asynchronous and event-driven architectures
-- 🛠️ Engineering-grade AI solutions designed for Linux-based production environments
+- 🤖 **End-to-end ML pipelines** — data preprocessing, model training, evaluation, and inference services  
+- ⚡ **AI inference systems** — deploying trained models into real-time, event-driven backends  
+- 🛡️ **Production-grade AI services** — AsyncIO-based APIs, performance tuning, and Linux deployment  
 
 <br/>
 
 <!-- =========================
-PROJECTS
+PROJECTS (UPDATED WITH YOUR PROJECTS)
 ========================= -->
 ### <a name="-projects"></a>🧩 Projects
 
-#### 🎋 Realtime AI-ready Backend Template  
-FastAPI + Socket.IO + AsyncIO  
-Designed for integrating ML inference into real-time systems.
+#### 🎮 AI-Driven Learning in the Board Game *Fafnir* (Intern Project)
 
-<a href="https://github.com/Panda-webai">
-  <img src="https://img.shields.io/badge/View%20Repository-black?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Designed and developed an **AI-assisted strategic board game learning system** to enhance **computational thinking** and **foundational AI skills**.
 
-<br/><br/>
+The system models complete game logic, scoring, and rule enforcement using a **Finite State Machine (FSM)** and applies **game theory concepts** such as bidding strategies and risk–reward trade-offs.  
+A **real-time client–server architecture** was implemented using **Python, FastAPI, Socket.IO, WebSocket, and AsyncIO**, supporting both **human players** and **autonomous AI agents** in an online multiplayer environment.
 
-#### 🐼 UI Kit Playground  
-React + Tailwind components  
-Clean, reusable UI components for production applications.
+The AI bot utilizes **heuristic-based decision-making** with **real-time game-state evaluation**, enabling adaptive and strategic gameplay while maintaining rule consistency.
 
-<a href="https://github.com/Panda-webai">
-  <img src="https://img.shields.io/badge/View%20Repository-black?style=for-the-badge&logo=react&logoColor=white" />
-</a>
+<br/>
+
+#### 🌦️ AI-Based Weather Modeling for Accelerated Weathering System
+
+Developed a **machine learning–based weather prediction system** for controlling an **accelerated weathering test machine**.
+
+Historical meteorological data from **2014–2023** was preprocessed using **time-series modeling** and **feature engineering techniques** to predict **temperature, humidity, and rainfall probability**.  
+The trained models achieved an **average prediction accuracy of 83.88%** and were deployed on an **NVIDIA Jetson Nano** for **embedded AI control**.
+
+The system integrates AI predictions with **hardware control components**, enabling multiple weather simulation modes and improving consistency compared to traditional **rule-based control systems**.
 
 <br/>
 

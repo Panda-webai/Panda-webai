@@ -1,21 +1,21 @@
 <!-- =========================
 🐼 Panda Theme | GitHub Profile README
-FULL CLEAN • CENTERED TECH STACK • BALANCED COLUMNS
-(About Me updated with provided English text)
+FINAL VERSION • AI-FOCUSED • JOB APPLICATION
+(No badges / no gimmicks)
 ========================= -->
 
 <div align="center">
 
   <!-- HERO -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,24,2&height=300&section=header&text=Panda-webai&fontSize=76&animation=fadeIn&fontAlignY=40&desc=Eat%20Bamboo%20%E2%86%92%20Write%20Code%20%F0%9F%8C%BF%F0%9F%90%BC&descSize=22&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,24,2&height=300&section=header&text=Panda-webai&fontSize=76&animation=fadeIn&fontAlignY=40&desc=Machine%20Learning%20%7C%20Real-time%20Systems&descSize=22&descAlignY=65" width="100%" />
 
   <!-- NAV -->
   <p>
-    <a href="#-about-me">🐼 About Me</a> &nbsp;•&nbsp;
-    <a href="#-tech-stack">🛠 Tech Stack</a> &nbsp;•&nbsp;
-    <a href="#-what-i-build">🧠 What I Build</a> &nbsp;•&nbsp;
-    <a href="#-projects">🧩 Projects</a> &nbsp;•&nbsp;
-    <a href="#-contact">📫 Contact</a>
+    <a href="#-about-me">About Me</a> &nbsp;•&nbsp;
+    <a href="#-tech-stack">Tech Stack</a> &nbsp;•&nbsp;
+    <a href="#-what-i-build">What I Build</a> &nbsp;•&nbsp;
+    <a href="#-projects">Projects</a> &nbsp;•&nbsp;
+    <a href="#-contact">Contact</a>
   </p>
 
 </div>
@@ -23,74 +23,60 @@ FULL CLEAN • CENTERED TECH STACK • BALANCED COLUMNS
 <br/>
 
 <!-- =========================
-ABOUT + SNAPSHOT
+ABOUT
 ========================= -->
-<table border="0" width="100%">
-<tr>
-
-<td width="58%" valign="top">
-
 ### <a name="-about-me"></a>🐼 About Me
 
-Aspiring Machine Learning Engineer with a background in Electronics and Telecommunications. Experienced in developing AI-powered systems using PyTorch and Scikit-learn. Proven ability to integrate AI with real-time architectures (FastAPI, WebSockets) through international research in Japan.
+Aspiring **Machine Learning Engineer** with a background in **Electronics and Telecommunications**.  
+Experienced in developing **AI-powered systems** using **PyTorch** and **scikit-learn**, with a strong interest in deploying machine learning models in **real-time production environments**.
 
-> ❝ Keep it clean. Keep it cute. Keep it shipping. ❞
+I have hands-on experience integrating **AI workflows with real-time backend architectures** using **FastAPI** and **WebSockets**, supported by **international research experience in Japan**.  
+My focus is on building **reliable, reproducible, and scalable AI systems** that bridge research and real-world applications.
 
-</td>
-
-<td width="42%" valign="top">
-
-<div align="center">
-
-### 🐼 Panda Dev Snapshot
-
-- 🧑‍🔬 Aspiring Machine Learning Engineer  
-- 🤖 Deep Learning & Classical ML Systems  
-- 🧠 Model Training, Evaluation & Deployment  
-- 🌿 Reproducible Experiments & Linux-based Production  
-
-<br/>
-
-<img src="https://img.shields.io/badge/%F0%9F%8C%BF%20Bamboo%20Powered-2ECC71?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%F0%9F%90%BC%20Cute%20but%20Deadly-111111?style=for-the-badge" />
-
-</div>
-
-</td>
-</tr>
-</table>
+> *“Keep it clean. Keep it simple. Keep it reproducible.”*
 
 <br/>
 
 <!-- =========================
-TECH STACK (CENTERED + BALANCED)
+DEV SNAPSHOT (AI FOCUSED)
 ========================= -->
-### <a name="-tech-stack"></a>🛠 Tech Stack (Panda Approved)
+### 🐼 Dev Snapshot
+
+- 🧑‍🔬 **Aspiring Machine Learning Engineer**
+- 🤖 **Deep Learning & Classical ML Systems**
+- 🧠 **Model Training, Evaluation & Deployment**
+- 🌿 **Linux-based, Production-ready Mindset**
+
+<br/>
+
+<!-- =========================
+TECH STACK
+========================= -->
+### <a name="-tech-stack"></a>🛠 Tech Stack
 
 <div align="center">
 
 <table width="90%" style="margin: 0 auto;">
 <tr>
 
-<!-- LANGUAGES (BALANCED HEIGHT) -->
+<!-- Languages -->
 <td align="center" width="33%">
-<b>🧠 Languages</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=python,cpp&perline=2" /><br/>
-<img src="https://skillicons.dev/icons?i=ts&perline=1" />
+<b>Languages</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,ts&perline=3" />
 </td>
 
-<!-- AI / ML (BALANCED HEIGHT) -->
+<!-- AI / ML -->
 <td align="center" width="34%">
-<b>🤖 AI / ML</b><br/><br/>
+<b>AI / Machine Learning</b><br/><br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2" /><br/>
-<img src="https://skillicons.dev/icons?i=sklearn&perline=1" />
+<img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas&perline=3" />
 </td>
 
-<!-- BACKEND & PLATFORM -->
+<!-- Backend -->
 <td align="center" width="33%">
-<b>⚙️ Backend & Platform</b><br/><br/>
+<b>Backend & Platform</b><br/><br/>
 <img src="https://skillicons.dev/icons?i=fastapi,linux&perline=2" /><br/><br/>
-<img src="https://img.shields.io/badge/AsyncIO-111111?style=for-the-badge&labelColor=2ECC71" />
+<img src="https://img.shields.io/badge/AsyncIO-black?style=for-the-badge" />
 </td>
 
 </tr>
@@ -98,14 +84,14 @@ TECH STACK (CENTERED + BALANCED)
 
 <br/>
 
-<b>⚡ Realtime</b><br/><br/>
-<img src="https://img.shields.io/badge/WebSocket-111111?style=for-the-badge&labelColor=2ECC71" />
-<img src="https://img.shields.io/badge/Socket.IO-111111?style=for-the-badge&labelColor=2ECC71" />
+<b>Realtime Systems</b><br/><br/>
+<img src="https://img.shields.io/badge/WebSocket-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Socket.IO-black?style=for-the-badge" />
 
 </div>
 
 <p align="center">
-  <i>AI/ML • Real-time Systems • Linux-based Production</i>
+  <i>AI / ML • Real-time Systems • Linux-based Production</i>
 </p>
 
 <br/>
@@ -115,44 +101,34 @@ WHAT I BUILD
 ========================= -->
 ### <a name="-what-i-build"></a>🧠 What I Build
 
-- ⚡ **Real-time Systems** — Rooms, Events, Reconnect, Latency handling  
-- 🤖 **AI / ML Pipelines** — Training, inference, experiments  
-- 🛡️ **Production Backend** — AsyncIO, Linux, stability-first  
+- 🤖 **End-to-end ML pipelines** — data processing, training, evaluation, inference  
+- ⚡ **Real-time AI systems** — model inference integrated with event-driven backends  
+- 🛡️ **Production-ready backends** — AsyncIO, stability, and scalability on Linux  
 
 <br/>
 
 <!-- =========================
 PROJECTS
 ========================= -->
-### <a name="-projects"></a>🧩 Featured Projects
+### <a name="-projects"></a>🧩 Projects
 
-<table border="0" width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-#### 🎋 Realtime System Template
-FastAPI + Socket.IO + AsyncIO
+#### 🎋 Realtime AI-ready Backend Template  
+FastAPI + Socket.IO + AsyncIO  
+Designed for integrating ML inference into real-time systems.
 
 <a href="https://github.com/Panda-webai">
-  <img src="https://img.shields.io/badge/View%20Repo-0B0F0E?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Repository-black?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</td>
+<br/><br/>
 
-<td width="50%" valign="top">
-
-#### 🐼 UI Kit Playground
-React + Tailwind components
+#### 🐼 UI Kit Playground  
+React + Tailwind components  
+Clean, reusable UI components for production applications.
 
 <a href="https://github.com/Panda-webai">
-  <img src="https://img.shields.io/badge/View%20Repo-2ECC71?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Repository-black?style=for-the-badge&logo=react&logoColor=white" />
 </a>
-
-</td>
-
-</tr>
-</table>
 
 <br/>
 
@@ -164,13 +140,13 @@ CONTACT
 <div align="center">
 
 <a href="mailto:yourmail@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/Panda-webai">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -180,5 +156,5 @@ CONTACT
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,24,0&height=110&section=footer" width="100%" />
-  <p>© 2026 Panda-webai | Made with 🐼 + 🎋</p>
+  <p>© 2026 Panda-webai</p>
 </div>

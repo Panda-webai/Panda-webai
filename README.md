@@ -107,10 +107,10 @@ WHAT I BUILD
 ========================= -->
 ### <a name="-what-i-build"></a>🧠 What I Build
 
--🤖 Machine Learning–driven systems with a focus on reliability, performance, and reproducibility
--⚙️ End-to-end AI pipelines from data collection and training to deployment and real-time inference
--⚡ Low-latency AI services integrated with asynchronous and event-driven architectures
--🛠️ Engineering-grade AI solutions designed for Linux-based production environments
+- **🤖 Machine Learning–driven systems with a focus on reliability, performance, and reproducibility
+- **⚙️ End-to-end AI pipelines from data collection and training to deployment and real-time inference
+- **⚡ Low-latency AI services integrated with asynchronous and event-driven architectures
+- **🛠️ Engineering-grade AI solutions designed for Linux-based production environments
 
 <br/>
 

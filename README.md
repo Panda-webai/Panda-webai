@@ -1,7 +1,6 @@
 <!-- =========================
 🐼 Panda Theme | GitHub Profile README
 FINAL VERSION • AI-FOCUSED • JOB APPLICATION
-(No badges / no gimmicks)
 ========================= -->
 
 <div align="center">
@@ -23,29 +22,39 @@ FINAL VERSION • AI-FOCUSED • JOB APPLICATION
 <br/>
 
 <!-- =========================
-ABOUT
+ABOUT + SNAPSHOT (LEFT / RIGHT)
 ========================= -->
+<table width="100%" border="0">
+<tr>
+
+<!-- LEFT : ABOUT ME -->
+<td width="60%" valign="top">
+
 ### <a name="-about-me"></a>🐼 About Me
 
 Aspiring **Machine Learning Engineer** with a background in **Electronics and Telecommunications**.  
 Experienced in developing **AI-powered systems** using **PyTorch** and **scikit-learn**, with a strong interest in deploying machine learning models in **real-time production environments**.
 
-I have hands-on experience integrating **AI workflows with real-time backend architectures** using **FastAPI** and **WebSockets**, supported by **international research experience in Japan**.  
-My focus is on building **reliable, reproducible, and scalable AI systems** that bridge research and real-world applications.
+I have hands-on experience integrating **AI workflows with real-time backend architectures** using **FastAPI** and **WebSockets**, supported by **international research experience in Japan**.
 
 > *“Keep it clean. Keep it simple. Keep it reproducible.”*
 
-<br/>
+</td>
 
-<!-- =========================
-DEV SNAPSHOT (AI FOCUSED)
-========================= -->
+<!-- RIGHT : SNAPSHOT -->
+<td width="40%" valign="top">
+
 ### 🐼 Dev Snapshot
 
 - 🧑‍🔬 **Aspiring Machine Learning Engineer**
 - 🤖 **Deep Learning & Classical ML Systems**
 - 🧠 **Model Training, Evaluation & Deployment**
 - 🌿 **Linux-based, Production-ready Mindset**
+
+</td>
+
+</tr>
+</table>
 
 <br/>
 
@@ -59,20 +68,17 @@ TECH STACK
 <table width="90%" style="margin: 0 auto;">
 <tr>
 
-<!-- Languages -->
 <td align="center" width="33%">
 <b>Languages</b><br/><br/>
 <img src="https://skillicons.dev/icons?i=python,cpp,ts&perline=3" />
 </td>
 
-<!-- AI / ML -->
 <td align="center" width="34%">
 <b>AI / Machine Learning</b><br/><br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2" /><br/>
 <img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas&perline=3" />
 </td>
 
-<!-- Backend -->
 <td align="center" width="33%">
 <b>Backend & Platform</b><br/><br/>
 <img src="https://skillicons.dev/icons?i=fastapi,linux&perline=2" /><br/><br/>
@@ -103,7 +109,7 @@ WHAT I BUILD
 
 - 🤖 **End-to-end ML pipelines** — data processing, training, evaluation, inference  
 - ⚡ **Real-time AI systems** — model inference integrated with event-driven backends  
-- 🛡️ **Production-ready backends** — AsyncIO, stability, and scalability on Linux  
+- 🛡️ **Production-ready backends** — AsyncIO, stability, scalability on Linux  
 
 <br/>
 

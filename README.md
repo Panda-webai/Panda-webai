@@ -34,11 +34,6 @@ ABOUT + SNAPSHOT
 
 Aspiring Machine Learning Engineer with a background in Electronics and Telecommunications. Experienced in developing AI-powered systems using PyTorch and Scikit-learn. Proven ability to integrate AI with real-time architectures (FastAPI, WebSockets) through international research in Japan.
 
-- 🧑‍💻 **Focus:** AI/ML + Real-time Backend (Python AsyncIO / WebSocket / Socket.IO)
-- 🎨 **Style:** Clean • Maintainable • UX-first
-- 🌱 **Learning:** Advanced React Patterns + State Architecture
-- ⚡ **Fun Fact:** Debugging speed increases near deadlines 😄
-
 > ❝ Keep it clean. Keep it cute. Keep it shipping. ❞
 
 </td>

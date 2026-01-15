@@ -1,6 +1,7 @@
 <!-- =========================
 🐼 Panda Theme | GitHub Profile README
 FULL CLEAN • CENTERED TECH STACK • BALANCED COLUMNS
+(About Me updated with provided English text)
 ========================= -->
 
 <div align="center">
@@ -31,13 +32,12 @@ ABOUT + SNAPSHOT
 
 ### <a name="-about-me"></a>🐼 About Me
 
-สวัสดีครับ ผมเป็น Developer ที่หลงใหลในการสร้าง  
-**Web Application, AI/ML และ Real-time Systems** บน Linux
+Aspiring Machine Learning Engineer with a background in Electronics and Telecommunications. Experienced in developing AI-powered systems using PyTorch and Scikit-learn. Proven ability to integrate AI with real-time architectures (FastAPI, WebSockets) through international research in Japan.
 
 - 🧑‍💻 **Focus:** AI/ML + Real-time Backend (Python AsyncIO / WebSocket / Socket.IO)
 - 🎨 **Style:** Clean • Maintainable • UX-first
 - 🌱 **Learning:** Advanced React Patterns + State Architecture
-- ⚡ **Fun Fact:** แก้บั๊กไวขึ้นเสมอเมื่อใกล้ Deadline 😄
+- ⚡ **Fun Fact:** Debugging speed increases near deadlines 😄
 
 > ❝ Keep it clean. Keep it cute. Keep it shipping. ❞
 
@@ -77,41 +77,25 @@ TECH STACK (CENTERED + BALANCED)
 <table width="90%" style="margin: 0 auto;">
 <tr>
 
-<!-- =========================
-LANGUAGES (BALANCED HEIGHT)
-========================= -->
+<!-- LANGUAGES (BALANCED HEIGHT) -->
 <td align="center" width="33%">
 <b>🧠 Languages</b><br/><br/>
-
-<!-- Row 1 -->
 <img src="https://skillicons.dev/icons?i=python,cpp&perline=2" /><br/>
-<!-- Row 2 -->
 <img src="https://skillicons.dev/icons?i=ts&perline=1" />
-
 </td>
 
-<!-- =========================
-AI / ML (BALANCED HEIGHT)
-========================= -->
+<!-- AI / ML (BALANCED HEIGHT) -->
 <td align="center" width="34%">
 <b>🤖 AI / ML</b><br/><br/>
-
-<!-- Row 1 -->
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2" /><br/>
-<!-- Row 2 -->
 <img src="https://skillicons.dev/icons?i=sklearn&perline=1" />
-
 </td>
 
-<!-- =========================
-BACKEND & PLATFORM
-========================= -->
+<!-- BACKEND & PLATFORM -->
 <td align="center" width="33%">
 <b>⚙️ Backend & Platform</b><br/><br/>
-
 <img src="https://skillicons.dev/icons?i=fastapi,linux&perline=2" /><br/><br/>
 <img src="https://img.shields.io/badge/AsyncIO-111111?style=for-the-badge&labelColor=2ECC71" />
-
 </td>
 
 </tr>

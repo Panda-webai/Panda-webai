@@ -44,10 +44,10 @@ Aspiring Machine Learning Engineer with a background in Electronics and Telecomm
 
 ### 🐼 Panda Dev Snapshot
 
-- 🧑‍💻 Full-Stack / AI Engineer  
-- ⚡ Real-time & Event-driven Systems  
-- 🧠 Clean Architecture & System Design  
-- 🌿 Linux-based Production Mindset  
+• 🧑‍🔬 Aspiring Machine Learning Engineer  
+• 🤖 Deep Learning & Classical ML Systems  
+• 🧠 Model Training, Evaluation & Deployment  
+• 🌿 Reproducible Experiments & Linux-based Production  
 
 <br/>
 

@@ -1,6 +1,6 @@
 <!-- =========================
 🐼 Panda Theme | GitHub Profile README
-FIXED ICON ALIGNMENT • NO FLOATING • NO EMPTY SPACE
+FULL CLEAN • CENTERED TECH STACK
 ========================= -->
 
 <div align="center">
@@ -29,21 +29,23 @@ ABOUT
 สวัสดีครับ ผมเป็น Developer ที่หลงใหลในการสร้าง  
 **Web Application, AI/ML และ Real-time Systems** บน Linux
 
-- 🧑‍💻 Focus: AI/ML + Real-time Backend
-- 🎨 Style: Clean • Maintainable • UX-first
-- ⚡ Fun Fact: แก้บั๊กไวขึ้นเสมอเมื่อใกล้ Deadline 😄
+- 🧑‍💻 Focus: AI/ML + Real-time Backend  
+- 🎨 Style: Clean • Maintainable • UX-first  
+- ⚡ Fun Fact: แก้บั๊กไวขึ้นเสมอเมื่อใกล้ Deadline 😄  
 
 ---
 
 <!-- =========================
-TECH STACK (NO FLOATING ICONS)
+TECH STACK (CENTERED)
 ========================= -->
 ### <a name="-tech-stack"></a>🛠 Tech Stack (Panda Approved)
 
-<table width="100%">
+<div align="center">
+
+<table width="90%" style="margin: 0 auto;">
 <tr>
 
-<!-- LANGUAGES -->
+<!-- Languages -->
 <td align="center" width="33%">
 <b>🧠 Languages</b><br/><br/>
 <img src="https://skillicons.dev/icons?i=python,cpp,ts&perline=3" />
@@ -56,7 +58,7 @@ TECH STACK (NO FLOATING ICONS)
 <img src="https://skillicons.dev/icons?i=numpy,pandas&perline=2" />
 </td>
 
-<!-- BACKEND -->
+<!-- Backend & Platform -->
 <td align="center" width="33%">
 <b>⚙️ Backend & Platform</b><br/><br/>
 <img src="https://skillicons.dev/icons?i=fastapi,linux&perline=2" /><br/><br/>
@@ -68,10 +70,10 @@ TECH STACK (NO FLOATING ICONS)
 
 <br/>
 
-<div align="center">
 <b>⚡ Realtime</b><br/><br/>
 <img src="https://img.shields.io/badge/WebSocket-111111?style=for-the-badge&labelColor=2ECC71" />
 <img src="https://img.shields.io/badge/Socket.IO-111111?style=for-the-badge&labelColor=2ECC71" />
+
 </div>
 
 <p align="center">
@@ -85,9 +87,9 @@ WHAT I BUILD
 ========================= -->
 ### <a name="-what-i-build"></a>🧠 What I Build
 
-- ⚡ Real-time Systems (Rooms, Events, Reconnect)
-- 🤖 AI / ML Pipelines (Training, Inference)
-- 🛡️ Production-ready Backend (Linux, AsyncIO)
+- ⚡ Real-time Systems (Rooms, Events, Reconnect)  
+- 🤖 AI / ML Pipelines (Training, Inference)  
+- 🛡️ Production-ready Backend (AsyncIO, Linux)  
 
 ---
 
@@ -120,5 +122,5 @@ CONTACT
 <!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,24,0&height=110&section=footer" width="100%" />
-  <p>© 2026 Panda-webai</p>
+  <p>© 2026 Panda-webai | Made with 🐼 + 🎋</p>
 </div>

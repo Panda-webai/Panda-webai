@@ -1,6 +1,6 @@
 <!-- =========================
 🐼 Panda Theme | GitHub Profile README
-FULL CLEAN + SNAPSHOT VERSION
+FULL CLEAN + SNAPSHOT VERSION (UPDATED TECH STACK)
 ========================= -->
 
 <div align="center">
@@ -30,12 +30,12 @@ ABOUT + SNAPSHOT
 <!-- LEFT -->
 <td width="58%" valign="top">
 
-### 🐼 About Me
+### <a name="-about-me"></a>🐼 About Me
 
 สวัสดีครับ ผมเป็น Developer ที่หลงใหลในการสร้าง  
-**Web Application ที่ลื่นไหล สวยงาม และ Real-time**
+**Web Application ที่ลื่นไหล สวยงาม และ Real-time** (รวมถึงงานด้าน AI/ML)
 
-- 🧑‍💻 **Focus:** Real-time System (Python AsyncIO / WebSocket / Socket.IO)
+- 🧑‍💻 **Focus:** AI/ML + Real-time System (Python AsyncIO / WebSocket / Socket.IO)
 - 🌱 **Learning:** Advanced React Patterns + State Architecture
 - 🎨 **Style:** Clean Code • Maintainable • UX-first
 - ⚡ **Fun Fact:** แก้บั๊กไวขึ้นเสมอเมื่อใกล้ Deadline 😄
@@ -56,7 +56,7 @@ ABOUT + SNAPSHOT
 <td>
 
 - 🧑‍💻 **Role:** Full-Stack Developer  
-- ⚡ **Specialty:** Real-time & Event-driven Systems  
+- ⚡ **Specialty:** AI/ML + Real-time & Event-driven Systems  
 - 🧠 **Strength:** System Design, Clean Architecture  
 - 🎨 **UI Mindset:** Simple, Predictable, UX-first  
 - 🌿 **Philosophy:** Build for today, scale for tomorrow  
@@ -81,17 +81,24 @@ ABOUT + SNAPSHOT
 <!-- =========================
 TECH STACK
 ========================= -->
-### 🛠 Tech Stack (Panda Approved)
+### <a name="-tech-stack"></a>🛠 Tech Stack (Panda Approved)
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,tailwind,fastapi,nodejs,docker,git,github,vscode,linux&perline=7" />
+<!-- Languages + AI/ML -->
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,pytorch,numpy,sklearn,tensorflow,pandas&perline=8" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Backend-Python%20%7C%20FastAPI%20%7C%20AsyncIO-0B0F0E?style=for-the-badge&labelColor=2ECC71" />
-<img src="https://img.shields.io/badge/Realtime-WebSocket%20%7C%20Socket.IO-111111?style=for-the-badge&labelColor=2ECC71" />
-<img src="https://img.shields.io/badge/Frontend-React%20%2B%20Tailwind-0B0F0E?style=for-the-badge&labelColor=2ECC71" />
+<!-- Backend + Platform -->
+<img src="https://skillicons.dev/icons?i=fastapi,linux&perline=8" />
+
+<br/><br/>
+
+<!-- Runtime / Realtime (concept badges) -->
+<img src="https://img.shields.io/badge/AsyncIO-111111?style=for-the-badge&labelColor=2ECC71" />
+<img src="https://img.shields.io/badge/WebSocket-111111?style=for-the-badge&labelColor=2ECC71" />
+<img src="https://img.shields.io/badge/Socket.IO-111111?style=for-the-badge&labelColor=2ECC71" />
 
 </div>
 
@@ -107,6 +114,9 @@ WHAT I BUILD
 
 - ⚡ **Real-time Systems**  
   Rooms, Events, Broadcast, Reconnect, Latency handling
+
+- 🤖 **AI/ML Pipeline & Experiments**  
+  Data processing, training/inference workflow, reproducibility
 
 - 🧩 **Frontend UI สำหรับ Production**  
   React + Tailwind, reusable components, predictable UX

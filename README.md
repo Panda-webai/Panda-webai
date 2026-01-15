@@ -107,9 +107,10 @@ WHAT I BUILD
 ========================= -->
 ### <a name="-what-i-build"></a>🧠 What I Build
 
-- 🤖 **End-to-end ML pipelines** — data processing, training, evaluation, inference  
-- ⚡ **Real-time AI systems** — model inference integrated with event-driven backends  
-- 🛡️ **Production-ready backends** — AsyncIO, stability, scalability on Linux  
+-🤖 Machine Learning–driven systems with a focus on reliability, performance, and reproducibility
+-⚙️ End-to-end AI pipelines from data collection and training to deployment and real-time inference
+-⚡ Low-latency AI services integrated with asynchronous and event-driven architectures
+-🛠️ Engineering-grade AI solutions designed for Linux-based production environments
 
 <br/>
 

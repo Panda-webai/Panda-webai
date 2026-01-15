@@ -44,10 +44,10 @@ Aspiring Machine Learning Engineer with a background in Electronics and Telecomm
 
 ### 🐼 Panda Dev Snapshot
 
-• 🧑‍🔬 Aspiring Machine Learning Engineer  
-• 🤖 Deep Learning & Classical ML Systems  
-• 🧠 Model Training, Evaluation & Deployment  
-• 🌿 Reproducible Experiments & Linux-based Production  
+- 🧑‍🔬 Aspiring Machine Learning Engineer  
+- 🤖 Deep Learning & Classical ML Systems  
+- 🧠 Model Training, Evaluation & Deployment  
+- 🌿 Reproducible Experiments & Linux-based Production  
 
 <br/>
 

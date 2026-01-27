@@ -6,7 +6,7 @@ FINAL VERSION • AI ENGINEERING • JOB APPLICATION
 <div align="center">
 
   <!-- HERO -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,24,2&height=300&section=header&text=Panda-webai&fontSize=76&animation=fadeIn&fontAlignY=40&desc=Machine%20Learning%20%7C%20Real-time%20Systems&descSize=22&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,24,2&height=300&section=header&text=Viraput&fontSize=76&animation=fadeIn&fontAlignY=40&desc=Machine%20Learning%20%7C%20Real-time%20Systems&descSize=22&descAlignY=65" width="100%" />
 
   <!-- NAV -->
   <p>
